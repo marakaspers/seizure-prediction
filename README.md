@@ -1,4 +1,4 @@
-# Seizure Prediction from EEG Data with BiLSTM
+# Seizure Prediction from EEG Timeseries Data with a Bidirectional LSTM Model
 
 The "main" branch consists of the following three files:
   - seizure_prediction_from_eeg_data_with_bilstm.py
