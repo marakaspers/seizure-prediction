@@ -12,3 +12,5 @@ Epileptic Seizure Recognition Data Set from the publicly available on the Univer
 * Seizure Prediction from EEG Data with BiLSTM.pdf
 
 Final report detailing the data processing methods, model architectures and accuracy results.
+
+In collaboration with Liang Ma.
